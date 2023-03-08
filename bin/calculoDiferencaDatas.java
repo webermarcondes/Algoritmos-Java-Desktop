@@ -1,6 +1,4 @@
-package dataproject.diferencaDatas;
 
-//Exercicio 6
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.LocalDateTime;

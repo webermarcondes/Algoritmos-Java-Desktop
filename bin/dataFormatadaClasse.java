@@ -1,5 +1,3 @@
-package dataFormatada;
-
 /*data formatada no padrão Dia/Mes/Ano Hora:Minuto:Segundo*/
 
 import java.text.SimpleDateFormat;

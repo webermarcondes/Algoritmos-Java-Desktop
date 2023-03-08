@@ -1,5 +1,3 @@
-package dataproject.calculoDiasPagFatura;
-
 //Exercicio 5
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
